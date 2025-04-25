@@ -32,7 +32,7 @@ dictionary_gui_app
 
 1. Run the application:
    ```
-   python src/app.py
+   python app.py
    ```
 
 2. Enter English word(s) in the input field and click the "Submit" button to see the phonetic transcription and loudness plot.
