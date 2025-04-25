@@ -7,10 +7,10 @@ This project is a graphical user interface (GUI) application that allows users t
 ```
 dictionary_gui_app
 ├── src
-│   ├── app.py            # Main entry point of the GUI application
-│   ├── phoneme_utils.py  # Functions for phoneme processing
-│   ├── api_utils.py      # API interaction functions
-│   └── plot_utils.py     # Functions for plotting loudness data
+├── app.py            # Main entry point of the GUI application
+├── phoneme_utils.py  # Functions for phoneme processing
+├── api_utils.py      # API interaction functions
+├── plot_utils.py     # Functions for plotting loudness data
 ├── requirements.txt      # List of dependencies
 └── README.md             # Documentation for the project
 ```
